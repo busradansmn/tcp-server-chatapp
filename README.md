@@ -8,12 +8,20 @@ Bu proje, aynı Wi-Fi ağına bağlı kullanıcıların **sunucu (server)** ve *
 
 
 ## Tanıtım Videosu
-![](lib/assets/png/gif.gif)
+<img src="lib/assets/png/gif.gif" width="300">
 
 ## Ekran Görüntüleri
 
-| ![](lib/assets/png/foto4.jpeg) | ![](lib/assets/png/foto2.jpeg) |
-| ![](lib/assets/png/foto3.jpeg) | ![](lib/assets/png/foto.jpeg) |
+<table>
+  <tr>
+    <td><img src="lib/assets/png/foto1.jpeg" width="200"></td>
+    <td><img src="lib/assets/png/foto2.jpeg" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="lib/assets/png/foto3.jpeg" width="200"></td>
+    <td><img src="lib/assets/png/foto4.jpeg" width="200"></td>
+  </tr>
+</table>
 
 
 ##  Kullanılan Teknolojiler
