@@ -14,7 +14,7 @@ Bu proje, aynı Wi-Fi ağına bağlı kullanıcıların **sunucu (server)** ve *
 
 <table>
   <tr>
-    <td><img src="lib/assets/png/foto1.jpeg" width="200"></td>
+    <td><img src="lib/assets/png/foto.jpeg" width="200"></td>
     <td><img src="lib/assets/png/foto2.jpeg" width="200"></td>
   </tr>
   <tr>
