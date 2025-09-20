@@ -7,18 +7,13 @@ Bu proje, aynı Wi-Fi ağına bağlı kullanıcıların **sunucu (server)** ve *
 -  Mesaj gizliliğine odaklanan yapı  
 
 
-## 🎥 Tanıtım Videosu
-![](assets/png/gif.gif)
+## Tanıtım Videosu
+![](lib/assets/png/gif.gif)
 
-## 📸 Ekran Görüntüleri
+## Ekran Görüntüleri
 
-| Fotoğraf 1                 | Fotoğraf 2                 |
-|----------------------------|----------------------------|
-| ![](assets/png/foto4.jpeg) | ![](assets/png/foto2.jpeg) |
-
-| Fotoğraf 3                 | Fotoğraf 4                |
-|----------------------------|---------------------------|
-| ![](assets/png/foto3.jpeg) | ![](assets/png/foto.jpeg) |
+| ![](lib/assets/png/foto4.jpeg) | ![](lib/assets/png/foto2.jpeg) |
+| ![](lib/assets/png/foto3.jpeg) | ![](lib/assets/png/foto.jpeg) |
 
 
 ##  Kullanılan Teknolojiler
@@ -27,7 +22,7 @@ Bu proje, aynı Wi-Fi ağına bağlı kullanıcıların **sunucu (server)** ve *
 - TCP Server Socket
 - Riverpod (State management)
 
-## ✨ Özellikler
+## Özellikler
 - Aynı Wi-Fi ağına bağlı kullanıcılar arasında anlık mesaj gönderimi ve alımı yapılabilir.
 - TCP socket bağlantısı sayesinde veri güvenli ve kayıpsız şekilde iletilir.
 - Her kullanıcı, kendi adını, soyadını ve avatarını seçebilir.
